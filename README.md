@@ -20,6 +20,8 @@
 
 [用这个脚手架写的一个计算器demo](https://github.com/zhugeliange/fatManCalculator)
 
+[用这个脚手架写的一个相册demo](https://github.com/zhugeliange/fatManAlbum)
+
 - **常用命令解释：**
 
 ```JavaScript
