@@ -8,7 +8,7 @@
 
 	- 模板用的是 **jade**
 
-	- 这里推荐使用 **yarn** 来取代 **npm**
+	- 这里推荐使用 **yarn** 来取代 **npm**，不了解的可以看我写的这个 [yarn教程](http://fsociety.cn/post/%E6%90%9E%E6%90%9E%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84yarn)
 
 	- 脚手架里集成了 **redux**， **router**，当然用不用取决于自己
 
@@ -17,6 +17,8 @@
 	- **express** 配合 **browersync** 实现了热更新和控制台
 
 	- 整个项目用 **eslint** 来做代码检查，已经配置在 **webpack** 里面了
+
+[用这个脚手架写的一个计算器demo](https://github.com/zhugeliange/fatManCalculator)
 
 - **常用命令解释：**
 
